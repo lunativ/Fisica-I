@@ -1,1 +1,4 @@
-matplotlib scipy pandas seaborn
+matplotlib
+scipy 
+pandas 
+seaborn
